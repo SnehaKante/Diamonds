@@ -13,6 +13,7 @@ public class Card {
 	
 	
 	
+	
 	public static void main(String args[]) {
 		Card c = new Card(15);
 		System.out.println(c.getPip());
